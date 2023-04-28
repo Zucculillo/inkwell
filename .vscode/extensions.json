@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    // Extensions for Rust
+    "rust-lang.rust-analyzer",
+    "vadimcn.vscode-lldb",
+    "bungcip.better-toml",
+    // Extensions for JavaScript
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    // Git stuff
+    "eamodio.gitlens",
+    // Misc
+    "Gruntfuggly.todo-tree",
+    "wayou.vscode-todo-highlight"
+  ]
+}
